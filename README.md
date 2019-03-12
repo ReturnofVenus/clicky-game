@@ -17,5 +17,5 @@ this is a memorization click game. The object of the game is to click out of the
 * [macOSMojave 10.14.2](https://support.apple.com/kb/DL1986?locale=en_US)
 * [VSCode](https://code.visualstudio.com/)
 
-## How to Install and Run
-01. git clone https://github.com/ReturnofVenus/clicky-game.git
+
+https://returnofvenus.github.io/clicky-game/
