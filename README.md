@@ -18,4 +18,4 @@ this is a memorization click game. The object of the game is to click out of the
 * [VSCode](https://code.visualstudio.com/)
 
 
-https://returnofvenus.github.io/clicky-game/
+https://obscure-wave-92163.herokuapp.com/
